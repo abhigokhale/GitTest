@@ -1,0 +1,1 @@
+c:\users\abhijitg\documents\visual studio 2015\Projects\SampleGitTest\SampleGitTest\obj\Debug\SampleGitTest.csprojResolveAssemblyReference.cache
