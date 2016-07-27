@@ -9,9 +9,5 @@ namespace SampleGitTest
     public class Class1
     {
         //Sample app to test Git features
-
-        //Testing the pull request feature
-
-        //Testing the pull request feature
     }
 }
